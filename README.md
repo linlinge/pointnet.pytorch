@@ -27,7 +27,7 @@ python train_segmentation.py --dataset <dataset path> --nepoch=<number epochs>
 
 Use `--feature_transform` to use feature transform.
 
-# 
+# Run 
 
 # Performance
 
